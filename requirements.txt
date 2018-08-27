@@ -1,4 +1,4 @@
-rise=5.4.1
+rise==5.4.1
 nltk==3.3
 wordcloud==1.4.1
 xgboost==0.72.1
