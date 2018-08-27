@@ -1,0 +1,42 @@
+name: decart-environment
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - patsy
+  - matplotlib
+  - seaborn
+  - ggplot
+  - tensorflow
+  - keras
+  - pandas-profiling
+  - theano
+  - pymc3
+  - mpld3
+  - pymysql
+  - gensim
+  - biopython
+  - pytables
+  - vega
+  - altair
+  - mkl-service
+  - scikit-image
+  - pip:
+    - pydicom
+    - textblob
+    - ipythonblocks
+    - pydotplus
+    - pycontextnlp
+    - radnlp
+    - pivottablejs
+    - pytest
+    - nose
+    - matplotlib_venn
+    - wordcloud
+    - nltk
+    - xgboost
+    - pandas-profiling

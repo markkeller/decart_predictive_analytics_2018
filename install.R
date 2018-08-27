@@ -1,0 +1,8 @@
+source("https://bioconductor.org/biocLite.R"); biocLite("graph")
+source("https://bioconductor.org/biocLite.R"); biocLite("BiocGenerics")
+install.packages("dagitty", dependencies = TRUE)
+install.packages("RAMpath", dependencies = TRUE)
+install.packages("vcd", dependencies = TRUE)
+install.packages("vcdExtra", dependencies = TRUE)
+install.packages("MCMCpack", dependencies = TRUE)
+install.packages("AER", dependencies = TRUE)
