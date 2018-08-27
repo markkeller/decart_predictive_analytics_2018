@@ -99,7 +99,6 @@ pycparser==2.18
 pydicom==1.1.0
 pydotplus==2.0.2
 Pygments==2.2.0
-pygpu==0.7.6
 pymc3==3.5
 PyMySQL==0.8.1
 pyOpenSSL==18.0.0
